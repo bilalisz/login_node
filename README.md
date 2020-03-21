@@ -1,2 +1,14 @@
 # login_node
-this is a app for creating users and show the profile of user
+
+
+
+
+
+
+
+<!-- <% if (message.length > 0) { %>
+                        <div class="alert alert-success col-sm-12"><%= message %></div>
+                        <% } %> -->
+
+
+
